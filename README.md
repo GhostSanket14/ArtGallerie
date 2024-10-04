@@ -2,7 +2,7 @@
 Just some digital-art
 
 1]
-[Planet_myDream](https://github.com/user-attachments/assets/f60de089-e42e-476c-877e-0aa3dbee7544)
+![Planet_myDream](https://github.com/user-attachments/assets/f60de089-e42e-476c-877e-0aa3dbee7544)
 2]
 ![DateNight](https://github.com/user-attachments/assets/e7ff319c-87e0-404d-953d-2e5a053953f8)
 3]
